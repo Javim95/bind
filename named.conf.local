@@ -6,9 +6,9 @@
 // organization
 //include "/etc/bind/zones.rfc1918";
 
-zone "iescalquera.local" {
+zone "muino.local" {
 	type master;
-	file "db.iescalquera.local";
+	file "db.muino.local";
 };
 
 zone "5.16.172.in-addr.arpa" {
